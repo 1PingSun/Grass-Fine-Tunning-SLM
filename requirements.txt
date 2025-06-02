@@ -1,3 +1,12 @@
 transformers 
 accelerate 
 safetensors
+TTS==0.22.0
+torchaudio==2.1.2
+torch==2.1.2
+pydub
+pygame
+pyaudio
+sounddevice 
+scipy 
+openai-whisper
