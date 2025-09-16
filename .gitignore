@@ -1,3 +1,5 @@
 .venv/
 Qwen2.5-0.5B-Counseling/
 XTTS-v2/
+icon/
+.DS_Store/
