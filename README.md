@@ -109,6 +109,7 @@ while True:
 - `pyaudio` - 音頻錄製
 - `openai-whisper` - 語音識別
 - `scipy` - 科學計算庫
+- `LLaMA-Factory` - 微調 LLM 
 
 ## ⚙️ 系統需求
 
