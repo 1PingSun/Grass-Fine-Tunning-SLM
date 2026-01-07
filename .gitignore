@@ -1,5 +1,6 @@
 .venv/
-Qwen2.5-0.5B-Counseling
-XTTS-v2
-icon
+Qwen2.5-0.5B-Counseling/
+XTTS-v2/
+icon/
+__pycache__/
 .DS_Store
